@@ -3,7 +3,6 @@
 ### Hi there, I'm Mahfudz Khoirun Nizam - Jokiwebsite.cloud 👋
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Nizam-dev&color=blue)
-![Profile Views](https://jokiwebsite.cloud)
 [![Instagram Follow](https://img.shields.io/twitter/follow/Nizam-dev?color=blue&label=follow%20%40Nizam-dev&logo=twitter&style=flat-square)][twitter]
 [![Website](https://img.shields.io/website?color=blue&label=jokiwebsite.cloud&style=flat-square&up_message=Online&url=https%3A%2F%2Fjokiwebsite.cloud)][website]
 
