@@ -23,8 +23,6 @@
 
 <br />
 
-### CODING ACTIVITY 👨🏻‍💻
-[![wakatime](https://wakatime.com/badge/user/59b1710c-4294-4e8b-984e-6edcd1ec6092.svg)](https://wakatime.com/@59b1710c-4294-4e8b-984e-6edcd1ec6092)
 
 ### Languages and Tools:
 
@@ -41,8 +39,8 @@
 
 <br /> <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/Nizam-dev"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Nizam-dev">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nizam-dev&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 ---
