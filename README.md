@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/1b/83/dc/1b83dce6c2a59c92d2dfdd14df85c377.gif">
+<img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg">
 ### Hi there, I'm Mahfudz Khoirun Nizam - Jokiwebsite.cloud 👋
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Nizam-dev&color=blue)
